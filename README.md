@@ -33,7 +33,7 @@ cd mi-proyecto
 # Inicializar repositorio
 git init
 
-# Crear README vacío
+# Crear README vacío (lo puedes editar despues)
 touch README.md
 
 # Primer commit
